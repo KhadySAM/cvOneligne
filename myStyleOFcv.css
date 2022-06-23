@@ -2,7 +2,7 @@ img{
 	width: 20vh;
     border-radius: 90%;
     border: 5px solid white;
-    margin-top: 1vh;
+    margin-top: 4vh;
     margin-left: 5vw;
     margin-right: 5vw;
 }
@@ -36,7 +36,7 @@ span{
 .sousConteneur3:nth-child(3)
 {
     flex: 70%;
-    /*height: 20vw;*/
+    background-color: white;
 }
 .contact{
 	margin-top: 50px;
@@ -49,17 +49,20 @@ span{
 .profil{
 	margin-left: 180px;
 }
-.color{
-    color:  white;
-    margin-left: 70px;
-}
 .c1{
     margin-left: 80px;
 }
 html{
-    font-family: sans-serif; 
+    font-family: roboto; 
+    font-size: 20px;
+    background-color: white;
 }
 h4 {
     color: white;
-    margin-left: 90px;
+    margin-left: 55px;
+}
+div .color{
+    color:  white;
+    margin-left: 45px;
+    margin-top: 40px;
 }
